@@ -38,4 +38,3 @@ function carInfo(manufacturer: string, model: string, ...options: any[]): object
 
 //   The returned car object is stored in the car variable, and we print it using console.log() 
 //   to verify that all the information was stored correctly.
-
